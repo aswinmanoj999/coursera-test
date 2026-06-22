@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="app">
       <header className="app-header">
-        <h1>GitHub Version - updated</h1>
+        <h1>New User</h1>
         <p>Get started by editing <code>src/App.jsx</code></p>
       </header>
       <main className="app-main">
